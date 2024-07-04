@@ -1,3 +1,26 @@
-h2{
-    color: chartreuse;
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: overline;
+    font-size: 80px;
+    text-align: center;
+
+}
+
+#heading-parent{
+    background-color: rgb(36, 13, 5) ;
+    height: 600px;
+    padding: 100px 0;
+    width: 1200px;
+    /* margin-top: 10px;
+    bottom: 10px;
+    margin-left: auto;
+    margin-right: auto; */
+    margin: 30px auto;
 }
